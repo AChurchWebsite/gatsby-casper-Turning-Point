@@ -51,8 +51,8 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Turning Point',
   description: 'Turning Point',
-  coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  coverImage: 'img/church.jpg',
+  logo: '',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
